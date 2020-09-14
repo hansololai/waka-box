@@ -13,5 +13,5 @@ jobs:
         uses: hansololai/waka-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: a223037c696db698d612f013f5426cc3
+          GIST_ID: fe21c01e72b09e708f1007d3d3fdcca7
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
